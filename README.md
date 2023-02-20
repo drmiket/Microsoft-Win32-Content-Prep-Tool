@@ -43,4 +43,4 @@ Command-line parameters available
 - -o <output_file> Output folder for the generated .intunewin file.
 - -a <catalog_folder> Catalog folder for all catalog files. All files in this folder will be treated as catalog file for Win10 S mode.
 
-**Note: The generated .intunewin file contains all compressed and encrypted source setup files and the encryption information to decrypt it. Please keep it in the safe place as your source setup files.**
+**Note: The generated .intunewin file contains all compressed and encrypted source setup files and the encryption information to decrypt it. Please keep it in the same place as your source setup files.**
